@@ -1,0 +1,21 @@
+.breadcrumb-not-active {
+    color: #cccccc;
+  }
+  
+  .breadcrumb-active {
+    color: #000000;
+  }
+  
+  .breadcrumb-arrow {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .footer{
+    /* position:fixed; */
+    flex:1;
+    bottom:2;
+    height:auto;
+    background-color:rgba(0, 0, 0, 0.564);
+    width:100%;
+    text-align:center
+  }
